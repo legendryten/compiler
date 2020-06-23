@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="e1e1cae3-301a-4de0-94b5-2b8ddf4a48a4" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1WeVGXOkq3IIguUgsnwnxFw4Iuq" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="$PROJECT_DIR$/src/LULU2.g4::/auto-gen" value="true" />
+    <property name="$PROJECT_DIR$/src/LULU2.g4::/gen-listener" value="true" />
+    <property name="$PROJECT_DIR$/src/LULU2.g4::/gen-visitor" value="true" />
+    <property name="$PROJECT_DIR$/src/LULU2.g4::/output-dir" value="E:\projects\compiler\finalProject\src\lulu2" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$USER_HOME$/Desktop/finalProject.2" />
+    <property name="project.structure.last.edited" value="Libraries" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="MTConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\projects\compiler\finalProject.2\src" />
+      <recent name="E:\projects\compiler\finalProject\src\lulu2Pakage" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="finalProject" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e1e1cae3-301a-4de0-94b5-2b8ddf4a48a4" name="Default Changelist" comment="" />
+      <created>1579509951108</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1579509951108</updated>
+      <workItem from="1579509954852" duration="8008000" />
+      <workItem from="1579589638344" duration="7745000" />
+      <workItem from="1579611774205" duration="6959000" />
+      <workItem from="1579671772237" duration="13239000" />
+      <workItem from="1579692153502" duration="65000" />
+      <workItem from="1579697815527" duration="11590000" />
+      <workItem from="1579756992454" duration="1713000" />
+      <workItem from="1579759302306" duration="15279000" />
+      <workItem from="1579779010417" duration="13272000" />
+      <workItem from="1579846541631" duration="1834000" />
+      <workItem from="1579848919871" duration="45735000" />
+      <workItem from="1591426873043" duration="5163000" />
+      <workItem from="1591525711479" duration="15000" />
+      <workItem from="1591525851630" duration="34000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="618" y="302" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog" timestamp="1591426905862">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="618" y="302" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog/0.0.1536.824@0.0.1536.824" timestamp="1591426905862" />
+    <state x="349" y="68" key="#com.intellij.openapi.projectRoots.ui.ProjectJdksEditor" timestamp="1591426902404">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="349" y="68" key="#com.intellij.openapi.projectRoots.ui.ProjectJdksEditor/0.0.1536.824@0.0.1536.824" timestamp="1591426902404" />
+    <state x="549" y="168" key="FileChooserDialogImpl" timestamp="1591525879133">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="549" y="168" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1591525879133" />
+    <state width="1493" height="210" key="GridCell.Tab.0.bottom" timestamp="1591433590356">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="210" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1591433590356" />
+    <state width="1493" height="210" key="GridCell.Tab.0.center" timestamp="1591433590356">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="210" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1591433590356" />
+    <state width="1493" height="210" key="GridCell.Tab.0.left" timestamp="1591433590356">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="210" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1591433590356" />
+    <state width="1493" height="210" key="GridCell.Tab.0.right" timestamp="1591433590356">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="210" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1591433590356" />
+    <state x="249" y="0" key="SettingsEditor" timestamp="1591426888606">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="249" y="0" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1591426888606" />
+    <state x="465" y="237" key="com.intellij.ide.util.TipDialog" timestamp="1591525861367">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="465" y="237" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1591525861367" />
+  </component>
+</project>
